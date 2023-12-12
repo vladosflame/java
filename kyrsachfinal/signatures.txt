@@ -1,0 +1,7 @@
+JPG=.jpg
+MP4=.mp4
+TXT=.txt
+MP3=.mp3
+RAR=.rar
+PNG=.png
+WAV=.wav
