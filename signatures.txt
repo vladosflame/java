@@ -1,5 +1,0 @@
-JPG=.jpg
-TXT=.txt
-MP3=.mp3
-PNG=.png
-WAV=.wav
